@@ -37,7 +37,7 @@ output
 
 ## 配置
 
-在 `output/config.yml` 中填入配置，以下是配置说明：
+在 `output/configs/config.yml` 中填入配置，以下是配置说明：
 
 ```bash
 server:
